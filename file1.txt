@@ -2,3 +2,6 @@ hi git
 hello
 hai
 bye
+line5
+line6
+line7

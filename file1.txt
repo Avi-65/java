@@ -2,6 +2,12 @@ hi git
 hello
 hai
 bye
+<<<<<<< Updated upstream
 line5
 line6
 line7
+=======
+11
+12
+13
+>>>>>>> Stashed changes
